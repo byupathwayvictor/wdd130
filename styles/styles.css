@@ -29,6 +29,7 @@ h1 {
     color: darkblue;
 }
 
+/* Main profile image */
 main img {
     width: 150px;
     height: auto;
@@ -41,13 +42,14 @@ main img {
 aside {
     width: 20rem;
     margin: 1rem;
-    border: 1px solid rgb(0 0 0 / 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.2);
     padding: 1rem;
     background-color: #eee;
     color: #333;
     text-align: center;
 }
 
+/* Nigeria flag image */
 aside img {
     width: 200px;
     height: auto;
